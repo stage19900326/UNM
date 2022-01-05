@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xdaC47496bD40Bca528d82d79ac01f28a845EE7F4",
+  "SCAN_LINK": "https://polygonscan.com/address/0xdaC47496bD40Bca528d82d79ac01f28a845EE7F4",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Crypto9",
+  "SYMBOL": "Crypto9",
+  "MAX_SUPPLY": 3650,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/crypto9",
+  "SHOW_BACKGROUND": true
+}
